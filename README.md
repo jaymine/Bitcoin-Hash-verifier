@@ -1,4 +1,4 @@
-# Bitcoin-Hash-verifier
+# Bitcoin Hash verifier
 Calculates and verifies the hash of a bitcoin block.
 
 ### Run
