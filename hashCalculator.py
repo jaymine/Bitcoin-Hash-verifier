@@ -26,6 +26,3 @@ CalculatedHash = sha256(sha256(header).digest()).hexdigest()
 
 state = 'Hash of the block is acceptable.' if Responsehash == CalculatedHash else 'Hash of the block is not acceptable.'
 print state
-
-
-
